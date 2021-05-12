@@ -1,7 +1,7 @@
-# Pruebas unitarias
+# Pruebas unitarias y de integración
 
 
-#### Pruebas unitarias en angular con Jasmine básicas.
+#### Pruebas unitarias y pruebas de integración en angular con Jasmine básicas e intermedias.
 
 
 
