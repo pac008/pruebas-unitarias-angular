@@ -4,10 +4,6 @@ import { MedicosService } from '../../intermedio/espias/medicos.service';
 import { HttpClientModule } from '@angular/common/http';
 
 
-
-
-
-
 describe('Médico component', () => {
 
 
